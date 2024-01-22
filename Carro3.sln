@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carro3", "Carro3.csproj", "{C1CF6121-DE5B-4C17-8AAB-3358214DA0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1CF6121-DE5B-4C17-8AAB-3358214DA0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CF6121-DE5B-4C17-8AAB-3358214DA0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CF6121-DE5B-4C17-8AAB-3358214DA0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CF6121-DE5B-4C17-8AAB-3358214DA0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89AC11E7-46C4-4EF4-ACF5-91236DA16F1C}
+	EndGlobalSection
+EndGlobal
